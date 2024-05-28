@@ -1,0 +1,1 @@
+long long _pow(int, int);
